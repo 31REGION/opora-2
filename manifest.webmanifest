@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Опора 2 — личный дневник сна, питания и тренировок",
+  "short_name": "Опора",
+  "lang": "ru",
+  "description": "Офлайн-дневник дня, питания, спорта, сна, шагов, пульса и небольших шагов",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#10253b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
